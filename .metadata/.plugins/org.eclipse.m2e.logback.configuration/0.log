@@ -1,0 +1,42 @@
+2016-04-26 17:25:23,442 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: HelloBoard:HelloBoard:0.0.1-SNAPSHOT @ C:\Users\206-001\Documents\SecureCoding\HelloBoard\pom.xml.
+2016-04-26 17:25:23,768 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for my-utilities:my-utilities:jar:1.0 is missing, no dependency information available
+2016-04-26 17:25:24,801 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for my-utilities:my-utilities:jar:1.0 is missing, no dependency information available
+2016-04-26 17:25:27,941 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:27,945 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-26 17:25:27,946 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-26 17:25:27,949 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:27,950 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-26 17:25:28,808 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: HelloMVC:HelloMVC:0.0.1-SNAPSHOT @ C:\Users\206-001\Documents\SecureCoding\HelloMVC\pom.xml.
+2016-04-26 17:25:29,072 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for my-utilities:my-utilities:jar:1.0 is missing, no dependency information available
+2016-04-26 17:25:29,477 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for my-utilities:my-utilities:jar:1.0 is missing, no dependency information available
+2016-04-26 17:25:30,124 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:30,125 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-04-26 17:25:30,127 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-04-26 17:25:30,132 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:30,133 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-26 17:25:34,109 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for my-utilities:my-utilities:jar:1.0 is missing, no dependency information available
+2016-04-26 17:25:34,341 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:34,351 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-26 17:25:34,352 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-26 17:25:34,353 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:34,353 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-26 17:25:35,053 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for my-utilities:my-utilities:jar:1.0 is missing, no dependency information available
+2016-04-26 17:25:35,183 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:35,187 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-04-26 17:25:35,189 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-04-26 17:25:35,192 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:35,193 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-26 17:25:36,153 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SpringSimpleBoard:SpringSimpleBoard:0.0.1-SNAPSHOT @ C:\Users\206-001\Documents\SecureCoding\SpringSimpleBoard\pom.xml.
+2016-04-26 17:25:36,370 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for my-utilities:my-utilities:jar:1.0 is missing, no dependency information available
+2016-04-26 17:25:36,634 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for my-utilities:my-utilities:jar:1.0 is missing, no dependency information available
+2016-04-26 17:25:37,133 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:37,134 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-04-26 17:25:37,138 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-26 17:25:37,142 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:37,143 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-26 17:25:43,827 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for my-utilities:my-utilities:jar:1.0 is missing, no dependency information available
+2016-04-26 17:25:43,991 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:43,996 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-04-26 17:25:44,000 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-26 17:25:44,006 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-26 17:25:44,007 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
