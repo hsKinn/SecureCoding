@@ -8,5 +8,9 @@
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1461659147598_2" label="Others" name="Others">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Servers" type="4"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1461715839641_4" label="HuCloud" name="HuCloud">
+<item elementID="=HuCloud" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=WebGoat" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1461659123879_0" label="Window Working Set" name="Aggregate for window 1461659123878"/>
 </workingSetManager>
